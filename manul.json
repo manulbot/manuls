@@ -27,9 +27,33 @@
     {
         "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2024/08/Pallas-Cat-Manul.jpg",
         "id": 6
-    }
+    },
      {
         "image": "https://i.pinimg.com/originals/ec/5a/a9/ec5aa93a38113ea5b346cb87b5c2c941.jpg",
         "id": 7
-    }
+    },
+    {
+        "image": "https://avatars.dzeninfra.ru/get-zen_brief/6960570/pub_62e7b0c9d549cf4dfe9122c1_62e7b0e7e5bf11613f768a17/scale_1200",
+        "id": 8
+    },
+    {
+        "image": "https://s13.stc.yc.kpcdn.net/share/i/12/12996269/wr-960.webp",
+        "id": 9
+    },
+    {
+        "image": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65aba9741f064225f11fe1ff_65abaaabb6de3443182fb258/scale_1200",
+        "id": 10
+    },
+    {
+        "image": "https://i.pinimg.com/736x/ae/aa/5f/aeaa5f5a80a278184747ecf6f1514e09.jpg",
+        "id": 11
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Manul_close.jpg/1199px-Manul_close.jpg",
+        "id": 12
+    },
+    {
+        "image": "https://faunistics.com/wp-content/uploads/2020/03/8.jpg",
+        "id": 13
+    },
 ]
