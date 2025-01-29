@@ -1,0 +1,31 @@
+[
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Manul_kitten.jpg/300px-Manul_kitten.jpg",
+        "id": 1
+    },
+
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Manoel.jpg/275px-Manoel.jpg",
+        "id": 2
+    },
+
+    {
+        "image": "https://static.wikia.nocookie.net/redbook/images/6/61/8bc157d0edf8ca76f58fdcea0befd169.jpg/revision/latest?cb=20170128203259&path-prefix=ru",
+        "id": 3
+    },
+
+    {
+        "image": "https://icdn.lenta.ru/images/2024/10/29/11/20241029115753932/preview_0c33f4a1394d40ff8512b19703600b31.jpg",
+        "id": 4
+    },
+
+    {
+        "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2024/08/pallas-cat-snow-1024x683.jpg",
+        "id": 5
+    },
+
+    {
+        "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2024/08/Pallas-Cat-Manul.jpg",
+        "id": 6
+    }
+]
